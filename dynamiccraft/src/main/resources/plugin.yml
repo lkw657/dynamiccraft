@@ -1,0 +1,12 @@
+name: DynamicCraft
+version: 0.0.1
+description: Plugin test
+
+authors: [lkw657]
+
+main: com.lkw657.dynamiccraft.DynamicCraft
+database: false
+
+api-version: 1.16
+load: POSTWORLD
+   
